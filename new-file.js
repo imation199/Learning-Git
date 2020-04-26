@@ -1,1 +1,4 @@
-console.log("Commited from github");
+var s=20
+class{
+    
+}
